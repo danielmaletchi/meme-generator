@@ -1,0 +1,7 @@
+{
+  "build": {
+    "env": {},
+    "envVarsInBuild": true,
+    "nodeVersion": "18.x"
+  }
+}
